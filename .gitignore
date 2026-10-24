@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+clientes.dat
+relatorio_final_simulacao.txt
